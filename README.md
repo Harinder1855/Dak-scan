@@ -14,8 +14,8 @@
 ## 🛠️ Tech Stack
 
 * **Frontend:** Flutter (Dart)
-* **Local Storage:** Hive / SQLite (Choose whichever you used)
-* **Image Processing:** `google_ml_kit` or similar packages used.
+* **Local Storage:** Hive 
+* **Image Processing:** `google_ml_kit` .
 
 ## 📱 Screenshots
 
